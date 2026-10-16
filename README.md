@@ -1,6 +1,6 @@
 #                                                                                 kotha (কথা)
 
-              Kotha is an Android application designed to provide two-way communication between Bangla Sign Language users and people who do not know sign language.
+Kotha is an Android application designed to provide two-way communication between Bangla Sign Language users and people who do not know sign language.
 
 ---
 
